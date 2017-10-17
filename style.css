@@ -1,0 +1,48 @@
+#main{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    margin: 20px;
+   
+    position: absolute;
+    
+}
+
+#mediumbox{
+    margin: 100px;
+    width: 300px;
+    height: 300px;
+    background-color: purple;
+    position: relative;
+}
+
+#littlebox{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+
+}
+#main2{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    margin:20px;
+    position: relative;
+    top:530px;
+}
+
+#mb2{
+    width: 300px;
+    height: 300px;
+    margin-left:100px;
+    background-color: green;
+    position:relative;
+  }
+
+#lb2{
+    width: 100px;
+    height: 100px;
+    margin:  0px;
+    background-color:black;
+    
+}
